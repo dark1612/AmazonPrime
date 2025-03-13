@@ -15,7 +15,8 @@ Icons from Material UI library have been used. Link is https://material-ui.com/c
 #### Technologies Used:
 1. ReactJS
 2. NodeJS
-3. MaterialUI for icons
+3. Firebase
+4. MaterialUI for icons
 
 ## Don't use it for any commercial purposes.
 
@@ -29,10 +30,9 @@ Screenshots of the App:
 
 
 
-#### Contact Details: Email id => peeyushgoyal154@gmail.com
 
-## Featured
-https://freesoff.com/t/160-open-source-clones-of-popular-sites/88788
+
+
 
 ## Available Scripts
 
