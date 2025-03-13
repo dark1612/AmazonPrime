@@ -1,6 +1,6 @@
 ## Amazon Prime Clone
 This project is a Amazon Prime Clone. You can run the below commands to see the project on your local system. 
-Hosted on Firebase at https://prime-clone-2fcfe.web.app/
+
 This is the version 1 of the project. (Desktop View Only).
 For getting Data I have used TMDB API. 
 
@@ -21,19 +21,13 @@ Icons from Material UI library have been used. Link is https://material-ui.com/c
 
 Screenshots of the App:
 
-![alt text](https://github.com/peeyush14goyal/AmazonPrime-ReactJS-Clone/blob/master/screenshots/1.PNG)
+![image](https://github.com/user-attachments/assets/4e6d38bd-7019-44d0-91f1-d2e95838ee36)
+
+![image](https://github.com/user-attachments/assets/9aa8d64c-6df5-4e9a-9b9e-fc0d2ed8ee93)
+
+![image](https://github.com/user-attachments/assets/d49a0851-4a54-463a-819c-ad6a4b28a54a)
 
 
-![alt text](https://github.com/peeyush14goyal/AmazonPrime-ReactJS-Clone/blob/master/screenshots/2.PNG)
-
-
-![alt text](https://github.com/peeyush14goyal/AmazonPrime-ReactJS-Clone/blob/master/screenshots/3.PNG)
-
-
-![alt text](https://github.com/peeyush14goyal/AmazonPrime-ReactJS-Clone/blob/master/screenshots/4.PNG)
-
-
-![alt text](https://github.com/peeyush14goyal/AmazonPrime-ReactJS-Clone/blob/master/screenshots/5.PNG)
 
 #### Contact Details: Email id => peeyushgoyal154@gmail.com
 
